@@ -1,0 +1,82 @@
+/*.parallax{
+		background-image: url("slideshow3.jpg");
+			
+		min-height:700px;
+			
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}*/
+#mypic{
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 80px;
+    width: 40%;
+    height: 40%;
+    
+}
+h1{
+    color:red;
+    text-align:center;
+    font-family: 'Freckle Face', cursive;
+	margin-left: auto;
+}
+h4{
+	color: black;
+	margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: left;
+	
+}
+h3{
+	margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: left;
+}
+p{
+  
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: left;
+	color: black;
+	font-size: 125%;
+	
+	}
+}
+#img-center{
+    text-align: center;
+}
+
+ul {
+	position: fixed;
+	list-style-type: none;
+	margin:0;
+	margin:0;
+	overflow: hidden;
+	background-color: skyblue;
+	font-family: 'Pacifico', cursive;
+	font-size: 125%;
+	top: 0;
+	width: 96%;
+}
+li{
+	float: left;
+	border-right: 1px solid white; 
+}
+li a{
+	display: block;
+	color: aliceblue;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a {
+	background-color: skyblue;
+}
+li a:hover{
+	background-color:lightpink;
+}
